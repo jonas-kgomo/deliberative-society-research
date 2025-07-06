@@ -1,49 +1,8 @@
-# Deliberative Society Research
+Wikipedia Rooms 
+We constructed a semantic map of conversational dynamics using a 3D tensor :XR UxTxF, where each element represents the activation of a feature F (e.g., topic, sentiment, discourse act) for user U at time T. From this structure—extracted from structured deliberative interactions in Wiki rooms—we derived utterance-level embeddings using GPT-2. These embeddings were clustered via KMeans (with k=20) and projected using t-SNE for visual interpretation. Each cluster corresponded to a recurring deliberative role or theme, such as Reversion, Appreciation, Clarification, or Sockpuppet. Using centroid proximity, we selected representative utterances per cluster and manually assigned concise topic labels. These semantic labels revealed structured communicative behavior across conversations, often aligning with classic deliberative roles or modes of contention.
 
-This project explores computational models and analyses of deliberative societies, focusing on how collective reasoning, argumentation, and decision-making processes can be simulated and studied using modern tools.
+This analysis operationalizes K-lines—internal knowledge activation lines—through language model embeddings, enabling us to map conversation flows into interpretable semantic space. Each cluster captures a distinct region of argumentation or interaction style within a deliberative dialogue, making visible how different topics and tactics coalesce across users and time. 
 
-## Features
+<img src="sub_clusters.png" />
 
-- Simulation of deliberative processes
-- Analysis of argumentation structures
-- Visualization of group decision dynamics
-
-## Mathematical Model
-
-The deliberative process can be represented as a graph $G = (V, E)$, where:
-- $V$ is the set of arguments or agents,
-- $E$ is the set of relations (such as support or attack) between them.
-
-The evolution of opinions can be modeled by updating each agent's belief state $$b_i$$ at time $$t$$ according to:
-
-$$ b_i^{(t+1)} = f(b_i^{(t)}, \sum_{j \in N(i)} w_{ij} b_j^{(t)})$$
-
-where:
-- $N(i)$ is the neighborhood of agent $i$,
-- $w_{ij}$ is the influence weight from agent $j$ to $i$,
-- $f$ is an update function (e.g., weighted average, bounded confidence).
-
-### Tensor Representation
-
-The model can be extended using tensors for more complex interactions:
-
-- Let $$\mathbf{B}^{(t)} \in \mathbb{R}^{n}$$ be the vector of all agents' beliefs at time $$t$$.
-- Let $$\mathbf{W} \in \mathbb{R}^{n \times n}$$ be the influence weight matrix, where $$W_{ij} = w_{ij}$$.
-- The update rule in tensor notation:
-
-$$
-\mathbf{B}^{(t+1)} = f\left(\mathbf{B}^{(t)}, \mathbf{W} \mathbf{B}^{(t)}\right)
-$$
-
-- For higher-order interactions (e.g., triadic influence), a third-order tensor $$\mathcal{T} \in \mathbb{R}^{n \times n \times n}$$ can be used:
-
-$$
-B_i^{(t+1)} = f\left(B_i^{(t)}, \sum_{j,k} \mathcal{T}_{ijk} B_j^{(t)} B_k^{(t)}\right)
-$$
-
-## Usage
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/deliberative-society-research.git
-   ```# deliberative-society-research
+The t-SNE plots revealed both clustered agreement and outlier disruptions, highlighting where discussion solidified or fragmented. This case study demonstrates how large language models can help surface the structure of collective reasoning, offering tools for platform designers, moderation researchers, and deliberation scholars to track participation quality and topic flow at scale.

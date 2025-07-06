@@ -1,0 +1,59 @@
+Cluster 0 representative utterances:
+ - Capricornis, stop insinuating. And please refrain from various [[Ad hominem]] arguments, as they are falacies. Comment on contributions please. 
+
+Cluster 1 representative utterances:
+ - Hi. Just writing that you closed out the [[WP:CFD]] as a '''merge and delete''', but category appears open still at this moment. Yours, 
+
+Cluster 2 representative utterances:
+ - At any rate, I didn't just make up a name haphazardly; \"Dove's Guide for Church Bell Ringers\" really does seem to be its current working title: [http:\/\/www.cccbr.org.uk\/dove\/home.php]. It hasn't been published in book form since 2000 and today's active form is the website; I think unless there's good reason otherwise a page's name and first sentence should refer to the ''current'' situation. In this case, doing so also considerably simplified things. Thanks, 
+
+Cluster 3 representative utterances:
+ - You guys are much too good to me! I hope after this experience kills me you guys will be pall barriers! And AnonEMouse can give my eulogy so that it is well referenced! You can do the powerpoint so that the images are well protected LOL 
+
+Cluster 4 representative utterances:
+ - Well, I have not made much significant contribution but just a couple of sections in one or two articles. If that is not enough, I have removed the template if that bothers you. 
+
+Cluster 5 representative utterances:
+ - Good luck. 
+
+Cluster 6 representative utterances:
+ - I reverted my [[WP:P*]] note, and probably need to add clarification to the Successful requests. In a way, I'm glad Chidom isn't here any more, he would probably be tearing his hair out. :-(. --
+
+Cluster 7 representative utterances:
+ - Hi. :) I appreciate all your work in that article and particularly in your diplomatic resolution to the nationality question. Mr. Cage would like us to set the record straight, and he's provided us with a published source so that we can. I've added that his nationality is American. (It's kind an irritable blog entry, but it contains some other biographical information that you might like to incorporate: [http:\/\/www.roadcage.com\/?p=60].) I just wanted to ask you, if you happen to be continuing to maintain the article as you so ably have in the past, to kind of keep an eye out for the return of Canadianism, if it should show up. Mr. Cage vigorously contests its accuracy. --
+
+Cluster 8 representative utterances:
+ - As I said on the FAR page, just wait a week or so. If no one replies, you can readd the template to the talk page and retransclude the discussion to the FAR page. Also, a collaborative type of post is much more likely to get a good response; comments such as \"dusty, unedited excuse of a talk page\" are unnecessary. 
+
+Cluster 9 representative utterances:
+ - There is never any reason to close an AFD before the week has ended, unless the nomination is withdrawn and there is no one that says delete or the nominator was a sockpuppet or someone just being pointy.  The article [[Lady]] will most certainly end in Keep, but there is no reason not to give everyone time to speak their mind, no matter how ridiculous their cases may be.  On the other side of the coin, snow deletes never have any possible justification for being done at all.  I've seen nominations start off with a dozen people spamming delete, only to have more rational minded people, who take at least a brief moment to click on the Google news search at the top of the AFD, state valid reasons to keep and add in references. 
+
+Cluster 10 representative utterances:
+ - I'm glad it was useful. It's fine in this case as it draws attention to the subject, although I can imagine cases where a photo may have more than one subject, or be trying to show the main subject in context, in which case cropping or blurring could be a removal of useful information. Luckily I used another photo in the article on ''Methodist Central Hall''. No doubt for some retouching you would have to save under a new name to preserve the usefulness of the original for other articles. How about a cross-language link from the English article on Hancock? Best wishes.  
+
+Cluster 11 representative utterances:
+ - I'll get on the two I did (Vienna and NezPerce) in the next couple of days. 
+
+Cluster 12 representative utterances:
+ - Hi, ''mus musculus non-nominatus'', I hate to ask but you seem to be one of the few editors\/admins I know who is non-judgmental when it comes to porn pages; could you take a look at the above if you have time and let me have your opinion? Myself and [[User:Nazz]] are the only two editors of [[Tove Jensen]] at present, and I'm only involved because this guy seems to have an [[WP:AX|axe to grind]] and the page is on my watch list. The specific issue at present is the birthdate and I won't say any more until you've had a look at it. Thanks --'''
+
+Cluster 13 representative utterances:
+ - 
+
+Cluster 14 representative utterances:
+ - Whoops, my apologies. I apparently read the bolded part and completely missed the part in parentheses. Thanks for letting me know - please let me know if there is anything else I'm doing wrong: I'm new at it, but the backlog needs work so I wanted to chip in. I'll go fix that now. 
+
+Cluster 15 representative utterances:
+ - Misinformed\/misguided are not insults in the English language. Maybe brush up on your English or use [[Websters]]? :) 
+
+Cluster 16 representative utterances:
+ - Yes, I left your original picture in the English article, as I thought English readers may have more interest in the Birmingham connection than Swedes do, so they would not want it blurred out. A cross-language link is already present. The Swedes have the only other wiki article in the world about Hancock, apparently. 
+
+Cluster 17 representative utterances:
+ - There would be nothing to restore, and categories can't be moved even if there were.  Category pages contain nothing, articles are added to it by an addition of code at the bottom of each article.  When a category is deleted, CFD has an Adminbot that goes through each article and removes the category.  The best you could do would be to find the edits in [[User:Cydebot]]'s contribution record, and then you'd be able to see what was in the category pre-deletion. 
+
+Cluster 18 representative utterances:
+ - He's got a nice Arab-ish profile, so of course he's beautiful!!! I'd ride my horse, but it's dark now! (Could the overall wiki-malaise I've noticed around here have any correlation to the end of daylight savings time, I wonder?)  The hot chocolate sounds like a yummy idea though...ummmmm.  
+
+Cluster 19 representative utterances:
+ - Well when a user brought this up on IRC, we agreed unilaterally that it should be closed as a keep. Why should we prolong drama at an AFD when it would continue along the path towards a keep vote? There is no way that the AFD would've ended in delete unless fifty editors showed up and simultaneously voted the same way. When that happens on this site, it is called sockpuppetry and it would've been noticed. I stand by my decision to close it as I know that user planned to do the same but I beat him to it.
